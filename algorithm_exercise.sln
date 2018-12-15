@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StarStamp_3", "StarStamp_3\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StarStamp_2", "StarStamp_2\StarStamp_2.vcxproj", "{A8643DD1-B866-4869-9FF7-8766FBF1284C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StarStamp4_diamond", "StarStamp4_diamond\StarStamp4_diamond.vcxproj", "{8008569F-A20C-45EC-9F05-17BF6DD3FF33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{A8643DD1-B866-4869-9FF7-8766FBF1284C}.Release|x64.Build.0 = Release|x64
 		{A8643DD1-B866-4869-9FF7-8766FBF1284C}.Release|x86.ActiveCfg = Release|Win32
 		{A8643DD1-B866-4869-9FF7-8766FBF1284C}.Release|x86.Build.0 = Release|Win32
+		{8008569F-A20C-45EC-9F05-17BF6DD3FF33}.Debug|x64.ActiveCfg = Debug|x64
+		{8008569F-A20C-45EC-9F05-17BF6DD3FF33}.Debug|x64.Build.0 = Debug|x64
+		{8008569F-A20C-45EC-9F05-17BF6DD3FF33}.Debug|x86.ActiveCfg = Debug|Win32
+		{8008569F-A20C-45EC-9F05-17BF6DD3FF33}.Debug|x86.Build.0 = Debug|Win32
+		{8008569F-A20C-45EC-9F05-17BF6DD3FF33}.Release|x64.ActiveCfg = Release|x64
+		{8008569F-A20C-45EC-9F05-17BF6DD3FF33}.Release|x64.Build.0 = Release|x64
+		{8008569F-A20C-45EC-9F05-17BF6DD3FF33}.Release|x86.ActiveCfg = Release|Win32
+		{8008569F-A20C-45EC-9F05-17BF6DD3FF33}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

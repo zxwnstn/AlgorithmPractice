@@ -18,6 +18,7 @@ long long solve(int *pricelistf, int price_n )
 	return celling;
 }
 
+
 int main()
 {
 	int t;

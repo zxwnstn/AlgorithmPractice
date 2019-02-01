@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-	int n;
+	int n, zn = 0;
 	cin >> n;
-	int zn = 0;
 	zn = n / 5 + n / 25 * 2 + n / 125 * 3;
-	cout << zn << endl;
+	cout << zn;
+	return 0;
 }
